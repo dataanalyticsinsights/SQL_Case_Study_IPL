@@ -21,24 +21,43 @@ What I Did
 In this project, I:
 
 Created and queried the IPLPlayers table
+
 Used aggregate functions such as SUM(), AVG(), MAX(), and COUNT()
+
 Applied GROUP BY and ORDER BY for team-based analysis
+
 Used WHERE conditions for filtering data
+
 Built Common Table Expressions (CTEs)
+
 Used ROW_NUMBER() and PARTITION BY for ranking players
+
 Applied CASE statements for price categorization
+
 Calculated player contribution percentages to team spending
+
 Used subqueries and correlated subqueries
+
 Combined query results using UNION ALL
+
 Key SQL Concepts Learned
+
 Data filtering using WHERE
+
 Sorting results using ORDER BY
+
 Aggregation using SUM, AVG, MAX, COUNT
+
 Team-wise grouping using GROUP BY
+
 Window functions and ranking
+
 Temporary result sets using CTEs
+
 Row-to-column transformation using CASE statements
+
 Subqueries and correlated subqueries
+
 Aliases and JOIN operations
 
 -- Outcome
